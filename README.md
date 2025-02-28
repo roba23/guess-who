@@ -29,7 +29,7 @@ The app is written in **Java** and includes a **demo GIF** to show off its cool 
 
 ## 🎥 Demo
 
-![Demo GIF](path/to/your/demo.gif)
+![Demo GIF](demo.gif)
 
 ## 🔧 Technologies Used
 
